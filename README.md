@@ -70,8 +70,10 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 *Major Areas of study*
 
 - Bioinformatics:
+
     Biochemical information databases and software usage within research
 - Bioenergetics:
+
     Indepth Algorithm and Equation based analysis of Organic and Inorganic enviroments
 
 **Final projects:**
