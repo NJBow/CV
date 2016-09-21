@@ -39,9 +39,6 @@ Strangely, this ability came about from when I was working as an assistant at a 
 
 Specifically in coding, especially through a TDD approach requires that ability to find the source of the error or unintended behaviour. By being able to dig through a sea of red error lines, and find the true source of issue gives me huge confidence in my own ability to code cleanly and efficiently.
 
-()()()came about during work spotting and numbering Giraffes)
-
-
 ## Education
 
 #### Makers Academy (July to September 2016)
