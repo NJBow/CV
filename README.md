@@ -67,7 +67,7 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 
 - BSc Honours in BioChemistry; 2.1
 
-*Major Areas of study*
+*Major Areas of study*:
 
 - Bioinformatics:
 
@@ -76,7 +76,7 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 
     Indepth Algorithm and Equation based analysis of Organic and Inorganic enviroments
 
-**Final projects:**
+*Final projects*:
 
 - Cryptobiotic Organism Implementation
 - DiHybridisation in wild Species.
