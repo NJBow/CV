@@ -35,7 +35,9 @@ Throughout my time at university, I had been placed in groups where either Leade
 
 #### Analytical
 
-There have been tasks that required the ability to pinpoint and pick out errors or situations that require attention to their detail. Coding, especially through a TDD approach requires that ability to find the source of the error or unintended behaviour. By being able to dig through a sea of red error lines, and find the true source of issue gives me huge confidence in my own ability to code cleanly and efficiently.
+Strangely, this ability came about from when I was working as an assistant at a Wildlife conservancy spotting and identifying Giraffes by their coat patterns, this led to me being able to pinpoint and pick details in text and other areas that vastely improved my learning and working experience.
+
+Specifically in coding, especially through a TDD approach requires that ability to find the source of the error or unintended behaviour. By being able to dig through a sea of red error lines, and find the true source of issue gives me huge confidence in my own ability to code cleanly and efficiently.
 
 ()()()came about during work spotting and numbering Giraffes)
 
