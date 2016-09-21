@@ -57,11 +57,11 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 
 *Projects at Makers*
 
-|  Project      | Description          | Technologies used  |
-| :-------------:|:-------------:|:-----:|
-| AudioDash*   | A 3D game using Audio file input to shape the way the game plays | Unity Game Engine, C#|
-| GitSnitch     | A search engine that reveals Crypt Keys and IDs exposed to public use. | Rails, Octokit, OmniAuth |
-| Air B'n'B     | A Leanring project that copied the layout and basic manorisms of the Original Air B'n'B | Javascript, Node.js, Zombie, Mocha, Chai, Knex, Postgres |
+|  Project      | Description          | Technologies| Testing |
+| :-------------:|:-------------:|:-----:|:--:|
+| AudioDash*   | A 3D game using Audio file input to shape the way the game plays | Unity Game Engine, C#|(limitted) NUnit, Unity Integration Testing|
+| GitSnitch     | A search engine that reveals Crypt Keys and IDs exposed to public use. | Rails, Octokit, OmniAuth | Rspec |
+| Air B'n'B     | A Leanring project that copied the layout and basic manorisms of the Original Air B'n'B | Javascript, Node.js, Knex, Postgres |Zombie , Mocha, Chai|
 
 `* = Currently AudioDash is not available online though Production builds and development builds to view on demand`
 
