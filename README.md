@@ -35,6 +35,12 @@ This applies to the Makers experience too, where my ability to truly interpret w
 
 Throughout my time at university, I had been placed in groups where either Leadership lacked or a strong central team binder was needed in order to tackle the tasks, such as AudioDash built during my time at Makers Academy. The AudioDash Project was given a fortnight to reach MVP. By the end of the first week, we had a single file with 14 lines of code, we needed to bring all we had to the table. This set us on course to not only complete our MVP but have additional bonus features we thought would never see the light.
 
+#### Communication
+
+??????????
+
+Growing up in Kenya, with small communities whom not purposely alienate themselves provided me the perfect setting to know how to open up to all and any. Whether a person as intimidating or welcoming, never prevented me from walking straight up to them, whether it meant having to be blunt or shooting the breeze. It helped me formulate a method to talking to the shyer individuals all the way to the very boisterous ones and pride myself on always being open and friendly.
+
 #### Analytical Approach
 
 Strangely, this ability came about from when I was working as an assistant at a Wildlife conservancy spotting and identifying Giraffes by their coat patterns, this led to me being able to pinpoint and pick details in text and other areas that vastely improved my learning and working experience.
