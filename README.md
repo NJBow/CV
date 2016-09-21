@@ -66,11 +66,16 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 #### Royal Holloway, University of London (September 2013 to June 2016)
 
 - BSc Honours in BioChemistry; 2.1
-- Bioinformatics
-- Bioenergetics
-- Climate Control
-- Proteomics
-- **Final projects:**
+
+*Major Areas of study*
+
+- Bioinformatics:
+    Biochemical information databases and software usage within research
+- Bioenergetics:
+    Indepth Algorithm and Equation based analysis of Organic and Inorganic enviroments
+
+**Final projects:**
+
 - Cryptobiotic Organism Implementation
 - DiHybridisation in wild Species.
 
