@@ -21,15 +21,15 @@ Graduating Makers has filled me with so much joy and a hunger to improve and to 
 
 ## Skills
 
-#### Strong Leadership and team player
-
-Throughout my time at university, I had been placed in groups where either Leadership lacked or a strong central team binder was needed in order to tackle the tasks, such as AudioDash built during my time at Makers Academy. The AudioDash Project was given a fortnight to reach MVP. By the end of the first week, we had a single file with 14 lines of code, we needed to bring all we had to the table. This set us on course to not only complete our MVP but have additional bonus features we thought would never see the light.
-
 #### Knowledge hungry
 
 My main driving force is the thirst for a pure and clear understanding of all I work and interact with. Throughout my university experience, I gained the core learning from my degree but a more expansive understanding of nearly all topics surrounding the cores.
 
 This applies to the Makers experience too, where my ability to truly interpret what happens behind the most basic of methods, allowed me to provide for both the teams and myself, a more clear and concise way of troubleshooting and to reach an MVP at an accelerated pace.
+
+#### leadership and team player
+
+Throughout my time at university, I had been placed in groups where either Leadership lacked or a strong central team binder was needed in order to tackle the tasks, such as AudioDash built during my time at Makers Academy. The AudioDash Project was given a fortnight to reach MVP. By the end of the first week, we had a single file with 14 lines of code, we needed to bring all we had to the table. This set us on course to not only complete our MVP but have additional bonus features we thought would never see the light.
 
 #### Analytical
 
