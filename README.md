@@ -2,6 +2,8 @@
 
 ## Nicholas James Bowman
 
+LINK|LINK|LINK|LINK
+
 Growing up in South Africa and Kenya gave me a surreal start to life. Nearly completely hidden from the World and it's huge technological advances.
 
 Though on my sixth Birthday, a Nintendo Gameboy Colour Yellow dropped into my world and flourished my enthusiasm to what happened behind each Mario Jump, Every Attack in Pokemon and how on Earth can I make my own?!
@@ -21,7 +23,7 @@ In the interview, I found myself trying to contain my excitement. When I made a 
 Graduating Makers has filled me with so much joy and a hunger to improve and to prove myself in code and the larger software community.
 
 
-## Skills
+## Abilities
 
 #### Knowledge hungry
 
@@ -29,11 +31,11 @@ My main driving force is the thirst for a pure and clear understanding of all I 
 
 This applies to the Makers experience too, where my ability to truly interpret what happens behind the most basic of methods, allowed me to provide for both the teams and myself, a more clear and concise way of troubleshooting and to reach an MVP at an accelerated pace.
 
-#### leadership and team player
+#### leadership and team work
 
 Throughout my time at university, I had been placed in groups where either Leadership lacked or a strong central team binder was needed in order to tackle the tasks, such as AudioDash built during my time at Makers Academy. The AudioDash Project was given a fortnight to reach MVP. By the end of the first week, we had a single file with 14 lines of code, we needed to bring all we had to the table. This set us on course to not only complete our MVP but have additional bonus features we thought would never see the light.
 
-#### Analytical
+#### Analytical Approach
 
 Strangely, this ability came about from when I was working as an assistant at a Wildlife conservancy spotting and identifying Giraffes by their coat patterns, this led to me being able to pinpoint and pick details in text and other areas that vastely improved my learning and working experience.
 
@@ -104,7 +106,7 @@ Specifically in coding, especially through a TDD approach requires that ability 
 
 - ** 2 A\*'s, 8 A's, 1 D **
 
-## Experience
+## Experiences
 
 **Olpejeta Wild Life Conservancy** (September to November 2012)    
 *Junior Zoologists Assistant*
