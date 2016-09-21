@@ -104,7 +104,7 @@ Specifically in coding, especially through a TDD approach requires that ability 
 
 *IGCSE*:
 
-- ** 2 A\*'s, 8 A's, 1 D **
+- ***2 A\*'s, 8 A's, 1 D***
 
 ## Experiences
 
