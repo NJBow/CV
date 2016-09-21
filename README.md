@@ -8,9 +8,9 @@ Though on my sixth Birthday, a Nintendo Gameboy Colour Yellow dropped into my wo
 
 FastForward 5 years, I had begun looking into open source code and trying to understand what was happening, though was intimidated at a young age by how incredibly complex it looked.
 
-FastForward 4 more years, due to the enclosed life in Africa, I was lead down a path to be a Surgeon. Thought to be safe and bound to be successful i followed the crowd. During university however, I became friends with a computer science student who showed me how he created a small app that worked as an alarm clock and begins brewing his coffee (genius). I was astounded, I drooled at how badly i wanted to be able to do that myself.
+FastForward 4 more years, due to the enclosed life in Africa, I was lead down a path to be a Surgeon. Thought to be safe and bound to be successful I followed the crowd. During university however, I became friends with a computer science student who showed me how he created a small app that worked as an alarm clock and begins brewing his coffee (genius). I was astounded, drooled at how badly I wanted to be able to do that myself.
 
-Slowly, in the hours i could spare, I took up learning Ruby language, from the first day I was enticed and found myself looking forward to my coding evenings, far more than my own degree.
+Slowly, in the hours I could spare, I took up learning Ruby language, from the first day I was enticed and found myself looking forward to my coding evenings, far more than my own degree.
 
 Towards the end of my degree, I realised that my passion lay in the field of Software development, whether that be Financial, gaming or pure technology based. All I wanted was to enter the industry and start build my ability. Thus Makers Academy Appeared.
 
@@ -97,7 +97,7 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 
 **Olpejeta Wild Life Conservancy** (September to November 2012)    
 *Junior Zoologists Assistant*
-I was required to keep track of Giraffe numbers and collect samples from individuals. Strangley enough this was truly with my analytical ability emerged where by I was able to register the gender and individual giraffes from far distances through uniques patterns and markings. Not to mention spotting them in think savana bush.  
+I was required to keep track of Giraffe numbers and collect samples from individuals. Strangley enough this was truly where my analytical ability emerged where by I was able to register the gender and individual giraffes from far distances through uniques patterns and markings. Not to mention spotting them in think savana bush.  
 
 ## Interests
 
