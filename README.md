@@ -18,7 +18,7 @@ Slowly, in the hours I could spare, I took up learning Ruby language, from the f
 
 Towards the end of my degree, I realised that my passion lay in the field of Software development, whether that be Financial, gaming or pure technology based. All I wanted was to enter the industry and start build my ability. Thus Makers Academy Appeared.
 
-In the interview, I found myself trying to contain my excitement. When I made a mistake during the pair program or didn't do a very efficient method, and was corrected. I relished information and the new shortcuts and paths towards a uniquely fast and smart code to solve a problem.
+In the Makers interview, I found myself trying to contain my excitement. When I made a mistake during the pair program or didn't do a very efficient method, and was corrected. I relished information and the new shortcuts and paths towards a uniquely fast and smart code to solve a problem.
 
 Graduating Makers has filled me with so much joy and a hunger to improve and to prove myself in code and the larger software community.
 
