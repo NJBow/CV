@@ -53,6 +53,7 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 - Independent learner and problem-solver and group Leader
 - Software Craftsmanship
 - OOP, TDD, SOLID, MVC, DDD
+- Agile and Waterfall workflow
 
 *Projects at Makers*
 
