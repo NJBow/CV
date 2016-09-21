@@ -71,7 +71,7 @@ Specifically in coding, especially through a TDD approach requires that ability 
 
 #### Royal Holloway, University of London (September 2013 to June 2016)
 
-- BSc Honours in BioChemistry; 2:1
+- BSc Honours in BioChemistry
 
 *Major Areas of study*:
 
