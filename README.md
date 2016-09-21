@@ -8,7 +8,9 @@ Though on my sixth Birthday, a Nintendo Gameboy Colour Yellow dropped into my wo
 
 FastForward 5 years, I had begun looking into open source code and trying to understand what was happening, though was intimidated at a young age by how incredibly complex it looked.
 
-FastForward 4 more years, due to the enclosed life in Africa, I was lead down a path to be a Surgeon. Thought to be safe and bound to be successful I followed the crowd. During university however, I became friends with a computer science student who showed me how he created a small app that worked as an alarm clock and begins brewing his coffee (genius). I was astounded, drooled at how badly I wanted to be able to do that myself.
+FastForward 4 more years, due to the enclosed life in Africa, I was lead down a path to be a Surgeon. Thought to be safe and bound to be successful I followed the crowd.
+
+During university however, I became friends with a computer science student who showed me how he created a small app that worked as an alarm clock and begins brewing his coffee (genius). I was astounded, drooled at how badly I wanted to be able to do that myself.
 
 Slowly, in the hours I could spare, I took up learning Ruby language, from the first day I was enticed and found myself looking forward to my coding evenings, far more than my own degree.
 
