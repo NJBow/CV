@@ -35,6 +35,8 @@ This applies to the Makers experience too, where my ability to truly interpret w
 
 There have been tasks that required the ability to pinpoint and pick out errors or situations that require attention to their detail. Coding, especially through a TDD approach requires that approach of finding the source of the error or unintended behaviour. By being able to dig through a sea of red error lines, and find the true source of issue gives me huge confidence in my own ability to code cleanly and efficiently.
 
+()()()came about during work spotting and numbering Giraffes)
+
 
 ## Education
 
