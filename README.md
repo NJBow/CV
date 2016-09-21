@@ -99,7 +99,7 @@ Specifically in coding, especially through a TDD approach requires that ability 
 
 - **A** - Chemistry
 - **B**  - Biology
-- **C**  - Mathematics
+- **B**  - Mathematics
 - **A**  - English Literature
 
 *IGCSE*:
