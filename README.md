@@ -91,7 +91,7 @@ There have been tasks that required the ability to pinpoint and pick out errors 
 
 *IGCSE*:
 
-- ** 2 A*'s, 8 A's, 1 D **
+- ** 2 A\*'s, 8 A's, 1 D **
 
 ## Experience
 
