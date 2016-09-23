@@ -11,19 +11,28 @@
 
 #### Profile
 ---
+
+A hard-working, highly Analytical, friendly Junior Software Developer. Constantly looking to improve my knowledge and to provide immense value to the team whilst being approachable and ever jolly.
+Looking to expand my abilites in all that is; Javascript, Ruby, C# and any further languages, the more the better! Improve my coding practices in order to provide excellence.
+
 #### Attributes
 ---
 *Knowledge Hungry* :
 
 My main driving force, a thirst for a pure understanding of all situations I face.
 
-Throughout my experiences at Makers Academy, University and it's multiple societies/teams this has proved a valuable asset, that provides for both myself and those surrounding the projects.
+This feature has matured throughout my university via the need to know more on the topics I studied. However I found that my interest in coding and software development has developed far more so than my previous academics and thus commands my passion for information.
+
+Throughout my experiences at Makers Academy, University and it's multiple soceities/teams, this has proved a valuable asset, that provides for both myself and those surrounding the projects I take part in.
 
 *Leadership and teamwork*
 
 Applying both to a team aspect and my own growth, I have built the ability to lead where is required but still remain at a level which my peers and colleagues may approach and debate what happens next.
 
-Vital when organising events at university, and reaching a Minimum Viable Product during my software development projects.
+Vital when organising events at university, and reaching a Minimum Viable Product during my software development projects. 
+
+A specific example would be the AudioDash product. In a team of 5 we were given a 2 week period to create an MVP of our chosen product.
+By the beginning of the second week, we had nothing aside from 14 lines of code on a single file, due to lack of direction. I brought the team together by undertaking regular stand-ups, Mob reviews and intense pair-programming leading to us producing an MVP product with additional bonus features.
 
 *Analytical Approach*
 
