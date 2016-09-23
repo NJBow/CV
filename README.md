@@ -1,4 +1,4 @@
-#### Nicholas James Bowman
+<center>#### Nicholas James Bowman</center>
 ---
 
 #### Profile
