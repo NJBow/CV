@@ -5,6 +5,7 @@
 ---
 
 A hard-working, highly Analytical, friendly Junior Software Developer. Constantly looking to improve my knowledge and to provide immense value to the team whilst being approachable and ever jolly.
+
 Looking to expand my abilites in all that is; Javascript, Ruby, C# and any further languages, the more the better! Improve my coding practices in order to provide excellence.
 
 #### Attributes
