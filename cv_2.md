@@ -11,6 +11,8 @@
 
 #### Profile
 ---
+#### Attributes
+---
 *Knowledge Hungry* :
 
 My main driving force, a thirst for a pure understanding of all situations I face.
