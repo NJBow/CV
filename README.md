@@ -1,15 +1,15 @@
 #### Nicholas James Bowman
 ---
-[Profile](#profile) | Attributes](#attributes) | [Education and Experience](#experience) | [Hobbies and Interests](#interests)
+[Profile](#profile) | [Attributes](#attributes) | [Education and Experience](#experience) | [Hobbies and Interests](#interests)
 
-## <a name="profile">Profile</a>
+#### <a name="profile">Profile</a>
 ---
 
 A hard-working, highly analytical, friendly Junior Software Developer. Constantly looking to improve my knowledge and to provide immense value to the team whilst being approachable and ever jolly.
 
 Looking to expand my abilites in all that is; Javascript, Ruby, C# and any further languages, the more the better! Improve my coding practices in order to provide excellence.
 
-#### Attributes
+#### <a name="attributes">Attributes</a>
 ---
 *Knowledge hungry* :
 
@@ -32,7 +32,7 @@ By the beginning of the second week, we had nothing aside from 14 lines of code 
 
 An ability that has flourished through work related and cultural experiences. My first real instinct to visually analyse came from study of individual giraffes on a conservancy, this flourished in university and throughout my coding experience and has been invaluable towards project development and bug fixing.
 
-#### Education and Experience
+#### <a name="experience">Education and Experience</a>
 
 **Makers Academy, Software developer Bootcamp**
 
@@ -149,7 +149,7 @@ September 2007 to July 2012
    - Chemistry
    - Biology
    
-#### Hobbies and Interests
+#### <a name="interests">Hobbies and Interests</a>
 - Cooking (classic French type cuisine).
 - Wildlife management and conservation.
 - Water Sports; Paddle boarding, sailing and kayaking. 
