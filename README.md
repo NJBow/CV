@@ -65,7 +65,6 @@ A Code camp that has a 10% acceptance rate on first round selection, Highly prid
 | Tricolade     | A Learning project that copied the layout and basic mannerisms of the Original Air B'n'B | Javascript, Node.js, Knex, Postgres |Zombie , Mocha, Chai|
 |Kiwi|Testing Framework made using Javascript|Javascript|Kiwi|
 
-`* = Currently AudioDash is not available online though Production builds and development builds to view on demand`
 
 
 **Royal Holloway, University of London**
