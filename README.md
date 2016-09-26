@@ -1,7 +1,8 @@
 #### Nicholas James Bowman
 ---
+[Profile](#profile) | Attributes](#attributes) | [Education and Experience](#experience) | [Hobbies and Interests](#interests)
 
-#### Profile
+## <a name="profile">Profile</a>
 ---
 
 A hard-working, highly analytical, friendly Junior Software Developer. Constantly looking to improve my knowledge and to provide immense value to the team whilst being approachable and ever jolly.
@@ -14,22 +15,22 @@ Looking to expand my abilites in all that is; Javascript, Ruby, C# and any furth
 
 My main driving force, a thirst for a pure understanding of all situations I face.
 
-This feature has matured throughout my university via the need to know more on the topics I studied. However I found that my interest in coding and software development has developed far more so than my previous academics and thus commands my passion for information.
+This feature has matured throughout my university via the need to know more on the topics I studied. However, I found that my interest in coding and software development has developed far more than my previous academics and thus commands my passion for information.
 
-Throughout my experiences at Makers Academy, University and it's multiple soceities/teams, this has proved a valuable asset, that provides for both myself and those surrounding the projects I take part in.
+Throughout my experiences at Makers Academy, University and it's multiple soceities/teams, this has proved a valuable asset that provides for both myself and those surrounding the projects I take part in.
 
 *Leadership and teamwork*
 
-Applying both to a team aspect and my own growth, I have built the ability to lead where is required but still remain at a level which my peers and colleagues may approach and debate what happens next.
+Applying both to a team setting and my own growth, I have built the ability to lead where is required but still remain at a level which my peers and colleagues may approach and debate what happens next.
 
 Vital when organising events at university, and reaching a Minimum Viable Product during my software development projects. 
 
 A specific example would be the AudioDash product. In a team of 5 we were given a 2 week period to create an MVP of our chosen product.
-By the beginning of the second week, we had nothing aside from 14 lines of code on a single file, due to lack of direction. I brought the team together by undertaking regular stand-ups, mob reviews and intense pair-programming leading to us producing an MVP product with additional bonus features.
+By the beginning of the second week, we had nothing aside from 14 lines of code on a single file, due to lack of direction. I brought the team together by undertaking regular stand-ups, mob reviews and intense pair-programming, leading to us producing an MVP product with additional bonus features.
 
 *Analytical approach*
 
-An ability that has flourished through work related and cultural experiences. My first real instinct to visually analyse came from study of individual giraffes on a conservancy, this flourished in university and throughout my coding experience and has been invaluable towards Test Driven Development and bug fixing.
+An ability that has flourished through work related and cultural experiences. My first real instinct to visually analyse came from study of individual giraffes on a conservancy, this flourished in university and throughout my coding experience and has been invaluable towards project development and bug fixing.
 
 #### Education and Experience
 
@@ -60,10 +61,10 @@ A code camp that has a 10% acceptance rate on first round selection, highly prid
 
 |  Project      | Description          | Technologies| Testing |
 | :-------------:|:-------------:|:-----:|:--:|
-| AudioDash*   | A 3D game using Audio file input to shape the way the game plays | Unity Game Engine, C#| NUnit, Unity Integration Testing|
-| GitSnitch     | A search engine that reveals Crypt Keys and IDs exposed to public use. | Rails, Octokit, OmniAuth | Rspec |
-| Tricolade     | A Learning project that copied the layout and basic mannerisms of the Original Air B'n'B | Javascript, Node.js, Knex, Postgres |Zombie , Mocha, Chai|
-|Kiwi|Testing Framework made using Javascript|Javascript|Kiwi|
+| [AudioDash](http://www.newgrounds.com/portal/view/681537)| A 3D game using Audio file input to shape the way the game plays | Unity Game Engine, C#| NUnit, Unity Integration Testing|
+| [GitSnitch](https://github.com/orgs/gitsnitch/dashboard)     | A search engine that reveals Crypt Keys and IDs exposed to public use. | Rails, Octokit, OmniAuth | Rspec |
+| [Tricolade](https://github.com/NJBow/Tricolade-Makers-BnB)     | A Learning project that copied the layout and basic mannerisms of the Original Air B'n'B | Javascript, Node.js, Knex, Postgres |Zombie , Mocha, Chai|
+|[Kiwi](https://github.com/NJBow/yelp)|Testing Framework made using Javascript|Javascript|Kiwi|
 
 
 
