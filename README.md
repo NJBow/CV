@@ -4,13 +4,13 @@
 #### Profile
 ---
 
-A hard-working, highly Analytical, friendly Junior Software Developer. Constantly looking to improve my knowledge and to provide immense value to the team whilst being approachable and ever jolly.
+A hard-working, highly analytical, friendly Junior Software Developer. Constantly looking to improve my knowledge and to provide immense value to the team whilst being approachable and ever jolly.
 
 Looking to expand my abilites in all that is; Javascript, Ruby, C# and any further languages, the more the better! Improve my coding practices in order to provide excellence.
 
 #### Attributes
 ---
-*Knowledge Hungry* :
+*Knowledge hungry* :
 
 My main driving force, a thirst for a pure understanding of all situations I face.
 
@@ -25,11 +25,11 @@ Applying both to a team aspect and my own growth, I have built the ability to le
 Vital when organising events at university, and reaching a Minimum Viable Product during my software development projects. 
 
 A specific example would be the AudioDash product. In a team of 5 we were given a 2 week period to create an MVP of our chosen product.
-By the beginning of the second week, we had nothing aside from 14 lines of code on a single file, due to lack of direction. I brought the team together by undertaking regular stand-ups, Mob reviews and intense pair-programming leading to us producing an MVP product with additional bonus features.
+By the beginning of the second week, we had nothing aside from 14 lines of code on a single file, due to lack of direction. I brought the team together by undertaking regular stand-ups, mob reviews and intense pair-programming leading to us producing an MVP product with additional bonus features.
 
-*Analytical Approach*
+*Analytical approach*
 
-An ability that has flourished through work related and cultural experiences. my first real instinct to visually analyse came from study of individual Giraffes on a conservancy, this flourished in university and throughout my coding experience and has been invaluable towards Test Driven Development and bug fixing.
+An ability that has flourished through work related and cultural experiences. My first real instinct to visually analyse came from study of individual giraffes on a conservancy, this flourished in university and throughout my coding experience and has been invaluable towards Test Driven Development and bug fixing.
 
 #### Education and Experience
 
@@ -37,16 +37,16 @@ An ability that has flourished through work related and cultural experiences. my
 
 *June - October 2016*
 
-A Code camp that has a 10% acceptance rate on first round selection, Highly prided on providing excellent students with strong code ethics.
+A code camp that has a 10% acceptance rate on first round selection, highly prided on providing excellent students with strong code ethics.
 
 - Work Ethics (All with SOLID approach):
     - Object Oriented design(OO)
     - Test Driven Development(TTD)
-    - Model View Controller (MVC)
+    - Model View Controller(MVC)
     - Domain Driven Design(DDD)
     - Agile and Waterfall workflow
-    - Curiosity and Passion for code
-    - Group Leader, Independent learner and problem-solver
+    - Curiosity and passion for code
+    - Group Leader, independent learner and problem-solver
 
 
 - Technologies used:
@@ -81,25 +81,25 @@ September 2013 to June 2016
 
 - Bioenergetics:
 
-    In-depth Algorithmic and Equational based analysis of Organic and Inorganic environments
+    In-depth algorithmic and equational based analysis of organic and inorganic environments
 
 *Final projects*:
 
-- Cryptobiotic Organism Implementation:
+- Cryptobiotic organism implementation:
 
     Large scale analysis of over multiple decades worth of research
 
 
 *Extra Activities*:
 
-- Secretary to the Biological Society
+- Secretary to the Biological society
 - Mentoring program
-- Rare Disease Volunteer and Organiser
+- Rare disease volunteer and organiser
 
      Skills acquired:
 
     - Large scale event planning
-    - Inter-company Communication
+    - Inter-company communication
     - Gaining exterior funding
     - Inter-personnal communication
     - Teaching
@@ -111,7 +111,7 @@ September 2013 to June 2016
 January to May 2013
 
 Skills acquired:
-- Food Hygiene
+- Food hygiene
 - Preparation and management of catered events
 - Team management and individual responsibility
 
@@ -121,7 +121,7 @@ September to November 2012
 
 Position: *Junior Zoologists Assistant*
 
-- Required to keep track of Giraffe numbers and collect samples from individuals.
+- Required to keep track of giraffe numbers and collect samples from individuals.
 - Where my analytical ability emerged
 - Need to be able to register gender and individual giraffes from far distances through uniques patterns and markings.
 
@@ -137,6 +137,7 @@ September 2007 to July 2012
 
 
 *11 IGCSEs (*A**-*A):
+ 
  - A*'s including:
     - Physics
 
@@ -148,10 +149,10 @@ September 2007 to July 2012
    - Biology
    
 #### Hobbies and Interests
-- Cooking (Classic French type cuisine).
+- Cooking (classic French type cuisine).
 - Wildlife management and conservation.
-- Water Sports; Paddle Boarding, Sailing and Kayaking. 
-- Software and Scientific Research.
+- Water Sports; Paddle boarding, sailing and kayaking. 
+- Software and scientific research.
 
    
    
