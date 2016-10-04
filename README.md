@@ -61,8 +61,8 @@ A code camp that has a 10% acceptance rate on first round selection, highly prid
 
 |  Project      | Description          | Technologies| Testing |
 | :-------------:|:-------------:|:-----:|:--:|
-| [AudioDash](http://www.newgrounds.com/portal/view/681537)| A 3D game using Audio file input to shape the way the game plays | Unity Game Engine, C#| NUnit, Unity Integration Testing|
-| [GitSnitch](https://github.com/orgs/gitsnitch/dashboard)     | A search engine that reveals Crypt Keys and IDs exposed to public use. | Rails, Octokit, OmniAuth | Rspec |
+| Audiodash [Game](http://www.newgrounds.com/portal/view/681537) [Github](https://github.com/NJBow/boomTune)| A 3D game using Audio file input to shape the way the game plays | Unity Game Engine, C#| NUnit, Unity Integration Testing|
+| [GitSnitch](https://github.com/NJBow/gitsnitch)     | A search engine that reveals Crypt Keys and IDs exposed to public use. | Rails, Octokit, OmniAuth | Rspec |
 | [Tricolade](https://github.com/NJBow/Tricolade-Makers-BnB)     | A Learning project that copied the layout and basic mannerisms of the Original Air B'n'B | Javascript, Node.js, Knex, Postgres |Zombie , Mocha, Chai|
 |[Kiwi](https://github.com/NJBow/yelp)|Testing Framework made using Javascript|Javascript|Kiwi|
 
