@@ -38,7 +38,7 @@ An ability that has flourished through work related and cultural experiences. My
 
 Position - *Software Developer in Test*
 
-The postion provided both environments on the development and test/QA sides of project work. 
+The position provided experience in both the development and test/QA sides of project work. 
 
 - Tech and experience:
     - Ruby, Rails
@@ -63,13 +63,11 @@ A code camp that has a 10% acceptance rate on first round selection, highly prid
     - Domain Driven Design(DDD)
     - Agile
     - Curiosity and passion for code
-    - Group Leader, independent learner and problem-solver
 
 - Technologies used:
-    - Ruby, Rails, Javascript, Node.js, Angular.js, C#
+    - Ruby, Rails, C#
     - HTML 5, CSS3
     - Rspec, Jasmine, Mocha, Chai, Zombie, NUnit, Knex, Bookshelf
-    - Unity Game Engine
     - Self Made Testing Framework using Javascript: Kiwi
 
 *Projects at Makers*:
