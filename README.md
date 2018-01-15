@@ -38,16 +38,21 @@ An ability that has flourished through work related and cultural experiences. My
 
 Position - *Software Developer in Test*
 
-The position provided experience in both the development and test/QA sides of project work. 
+I was accountable for handling testing and test coverage across a team of 8 - 10 developers within the company. The teams focus rotated mainly around marketing based work from which we supported, maintained and developed. Working closely with all levels of the team from Junior Developer to Tech Lead.
+
+I also volunteered to multiple events; and won a Google home for the company from Google! By developing a quote generator in 2 days, with help from two business facing colleagues.
+Using the skills from the Google Hackathon, we were able to create another application on the Google that helps identify easy access to all stations in London for disabled users, for a WhizzKidz.
 
 - Tech and experience:
-    - Ruby, Rails
+    - Ruby, Rails, Javascript
     - Gherkin Specs (Turnip, Cucumber, Rutabaga), Selenium, Capybara
+    - Use of extensive testing - unit, feature, exploratory, efficency testing.
+    - Skill for domain understanding & analysis (Interpretation & modeling)
     - Virtual box pressure and efficiency testing
     - Technical and Business facing testing
     - Website Security development
     - SEO work
-    - Scrum, Kanban and Scrumban
+    - Agile, Scrum, Kanban and Scrumban
     
     
 **Makers Academy, Software developer Bootcamp**
